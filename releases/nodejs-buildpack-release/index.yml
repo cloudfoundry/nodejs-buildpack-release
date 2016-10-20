@@ -34,4 +34,6 @@ builds:
     version: 1.5.20
   e36aa1b2-17ff-4ec1-ac8d-3d62c1fead25:
     version: 1.5.21
+  a68d7633-7a91-42a3-b26c-92e82a1bed49:
+    version: 1.5.22
 format-version: '2'
