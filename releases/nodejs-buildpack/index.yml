@@ -4,4 +4,6 @@ builds:
     version: 1.5.22
   7fadbee1-d930-4373-96dd-56799e4eb0ae:
     version: 1.5.23
+  8b111e82-3638-4052-b54f-1fff5e10a076:
+    version: 1.5.24
 format-version: '2'
