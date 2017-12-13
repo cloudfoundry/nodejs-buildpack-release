@@ -1,4 +1,4 @@
-nodejs-buildpack/nodejs-buildpack-v1.6.12.zip:
-  size: 3896629
-  object_id: 8c835440-5ef3-4753-5369-f16e5e1555c9
-  sha: cf3494d8fceb79240fba94107fcd58aa788aa87a
+nodejs-buildpack/nodejs-buildpack-v1.6.13.zip:
+  size: 3899736
+  object_id: fa1dc1ab-2a9b-4e98-6f93-b820733a871b
+  sha: 4f59633fdf94bb9927e65387f5ecb12267d6de70
