@@ -1,0 +1,4 @@
+---
+name: nodejs-buildpack-cflinuxfs2
+files:
+- nodejs-buildpack/nodejs?buildpack-cflinuxfs2-v*.zip
