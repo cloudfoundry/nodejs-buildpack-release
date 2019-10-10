@@ -1,2 +1,0 @@
-    set -e -x
-    cp nodejs-buildpack/nodejs?buildpack-*.zip ${BOSH_INSTALL_TARGET}

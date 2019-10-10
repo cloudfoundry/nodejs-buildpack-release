@@ -3,7 +3,6 @@ name: nodejs-buildpack
 templates: {}
 
 packages:
-- nodejs-buildpack-cflinuxfs2
 - nodejs-buildpack-cflinuxfs3
 
 properties: {}
