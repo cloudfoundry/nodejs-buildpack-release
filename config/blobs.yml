@@ -1,4 +1,4 @@
-nodejs-buildpack/nodejs_buildpack-cflinuxfs3-v1.7.44.zip:
-  size: 5509911
-  object_id: 2b7252b9-70a5-43e9-63da-518240f89aef
-  sha: sha256:b2cd1f870fd23b98614b71e6f3117dddf2c80b3674250f7966401453622c8f43
+nodejs-buildpack/nodejs_buildpack-cflinuxfs3-v1.7.45.zip:
+  size: 5509927
+  object_id: 693bb014-68f1-4184-7482-072fad3b4bab
+  sha: sha256:d8b97a09ad9577eccfa85c25a5f51299137153cad082a2f67ea38d8a47a649c3
