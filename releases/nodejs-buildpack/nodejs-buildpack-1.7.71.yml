@@ -1,0 +1,21 @@
+name: nodejs-buildpack
+version: 1.7.71
+commit_hash: 6f19207
+uncommitted_changes: false
+jobs:
+- name: nodejs-buildpack
+  version: 52d51e096667838e88748765b6df45d912abb0457bb35c393a8111624a368741
+  fingerprint: 52d51e096667838e88748765b6df45d912abb0457bb35c393a8111624a368741
+  sha1: sha256:681882a5b1a70329319807b4908b09e9b96f7e2e7763d61a0184d293195353d0
+  packages:
+  - nodejs-buildpack-cflinuxfs3
+packages:
+- name: nodejs-buildpack-cflinuxfs3
+  version: 518d0785cdc71194ea679e4d65551db3daeca38187ac19dc53cf03e9b2a6a587
+  fingerprint: 518d0785cdc71194ea679e4d65551db3daeca38187ac19dc53cf03e9b2a6a587
+  sha1: sha256:6c0dcb23ebe03cc7efd5cba74919f3143eb99989a4856f96d6df3dab79aec4d8
+  dependencies: []
+license:
+  version: e38d0f5837a8e2137edde2e18fd4cfbf84a52abe6e9946eeed14610adfb75b88
+  fingerprint: e38d0f5837a8e2137edde2e18fd4cfbf84a52abe6e9946eeed14610adfb75b88
+  sha1: sha256:fa0dce184aa47d7c3a10b6c3cd6aef17e736b34f78023986833d76efd68c32b0
