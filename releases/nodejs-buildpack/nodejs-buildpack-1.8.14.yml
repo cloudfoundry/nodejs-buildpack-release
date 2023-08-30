@@ -1,0 +1,27 @@
+name: nodejs-buildpack
+version: 1.8.14
+commit_hash: 22d5fbb
+uncommitted_changes: false
+jobs:
+- name: nodejs-buildpack
+  version: 5d175008ea159215604b8a7f029fbfcded559bbfbc36708516febf6be52f2a7e
+  fingerprint: 5d175008ea159215604b8a7f029fbfcded559bbfbc36708516febf6be52f2a7e
+  sha1: sha256:f770a6a5afaf9099eae1c0af4c52c3a91544bc5d3fd9bdc699d67d63e04099b6
+  packages:
+  - nodejs-buildpack-cflinuxfs3
+  - nodejs-buildpack-cflinuxfs4
+packages:
+- name: nodejs-buildpack-cflinuxfs3
+  version: ffecdacb7d96a21860ca007c3656c926cc7dddbdd8440e8aad767c63305704ec
+  fingerprint: ffecdacb7d96a21860ca007c3656c926cc7dddbdd8440e8aad767c63305704ec
+  sha1: sha256:90b3251f28dc1ed477e2c4604bf61001c37289ac3ad588e40206c71ea0be02dd
+  dependencies: []
+- name: nodejs-buildpack-cflinuxfs4
+  version: 6097462dc635ec31fe9738b56ed84db8477efe512628656e6136619c79b63f89
+  fingerprint: 6097462dc635ec31fe9738b56ed84db8477efe512628656e6136619c79b63f89
+  sha1: sha256:eac52a0b5437638ed99f0c34c6fc609691c289a0004985888ea19bbd91e990ce
+  dependencies: []
+license:
+  version: e38d0f5837a8e2137edde2e18fd4cfbf84a52abe6e9946eeed14610adfb75b88
+  fingerprint: e38d0f5837a8e2137edde2e18fd4cfbf84a52abe6e9946eeed14610adfb75b88
+  sha1: sha256:fa0dce184aa47d7c3a10b6c3cd6aef17e736b34f78023986833d76efd68c32b0
