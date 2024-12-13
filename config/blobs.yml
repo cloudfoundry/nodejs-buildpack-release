@@ -1,8 +1,8 @@
-nodejs-buildpack/nodejs_buildpack-cflinuxfs3-v1.8.30.zip:
-  size: 5696872
-  object_id: 15dbbe99-06d2-4599-6566-1e3d90e8afc8
-  sha: sha256:e6e042aae675046afab18f70c2b07d769ca9105da91aa6831caffc5731f0954e
-nodejs-buildpack/nodejs_buildpack-cflinuxfs4-v1.8.30.zip:
-  size: 5697068
-  object_id: bad7189f-9ea9-4d21-4a9b-2c7faa3cf77c
-  sha: sha256:07a76c3b804f3ed81208a2a7d3acf323756f093c60b1b3d753c6eaa399680e01
+nodejs-buildpack/nodejs_buildpack-cflinuxfs3-v1.8.31.zip:
+  size: 5697865
+  object_id: 9734dbeb-3b76-4b7c-782d-6e553b1673e5
+  sha: sha256:45298b1ccc1f98a614e04bfc7eff74c3236a3bfe58a3fbb3d42622f851189c56
+nodejs-buildpack/nodejs_buildpack-cflinuxfs4-v1.8.31.zip:
+  size: 5697973
+  object_id: 851dc6fa-34f3-4a1a-4a61-92eb1b30ba50
+  sha: sha256:870b66307382a270cc7443220afcb453252e1e68cb72bbf6ab726f101413d97c
